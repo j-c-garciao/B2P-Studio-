@@ -1,2 +1,3 @@
 # B2P Studio
-Demonstrative Program for Assessing Building Evacuation Route Planning as Process-Network Synthesis Problems via P-graphs
+
+B2P Studio is demonstrative tool for assessing Building Evacuation Route pPlanning as Process-Network Synthesis Problems via [P-graphs](https://p-graph.org/).
